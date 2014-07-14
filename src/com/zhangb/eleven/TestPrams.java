@@ -11,5 +11,6 @@ public class TestPrams {
 			change(count,i);
 			System.out.println(count[0]+";"+i);
 			System.out.print("");
+			System.out.print("");
 	}
 }
